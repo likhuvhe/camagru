@@ -1,7 +1,7 @@
 <?php
     include("val.php");
     include("send_mail.php");
-    include("./config/database.php ");
+    include("./config/database.php");
     if($_POST['submit']){
         $email = $_POST['email'];
         if ($email){
