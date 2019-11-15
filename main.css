@@ -1,0 +1,29 @@
+
+.img{
+    width: 40%;
+     height: auto;
+     margin-left:30%;
+     margin-right: 30%;
+}
+.delete{
+    margin-left:30%;  
+}
+img{
+  width: 40%;
+   height: auto;
+   margin-left:30%;
+   margin-right: 30%;
+}
+textarea{
+  width: 40%;
+     height: auto;
+     margin-left:30%;
+     margin-right: 30%;
+    }
+.b_comment{
+   height: auto;
+   margin-left:30%;
+}
+.he, .h11{
+  margin-left: 60px;
+}
